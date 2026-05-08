@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/naounoumar/cloudstream-extensions/main/VoirAnimeTo.cs3",
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "language": "fr",
+    "name": "VoirAnimeTo",
+    "internalName": "VoirAnimeTo",
+    "iconUrl": "https://voir-anime.to/wp-content/uploads/2023/01/favicon.ico",
+    "description": "Anime VF/VOSTFR sur voir-anime.to",
+    "authors": ["naounoumar"],
+    "repositoryUrl": "https://github.com/naounoumar/cloudstream-extensions",
+    "version": 1,
+    "status": 1
+  }
+]
